@@ -1,5 +1,5 @@
 import { Component, Input } from '@angular/core';
-import { HousingLocation } from '../housing-location';
+import { HousingLocation } from '../../models/housing-location';
 @Component({
   selector: 'app-housing-location',
   standalone: true,
